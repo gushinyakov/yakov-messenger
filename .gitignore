@@ -4,3 +4,10 @@
 *.ipr
 /out/
 /.idea/
+
+### Parcel ###
+/.parcel-cache/
+
+### Other ###
+/node_modules/
+!/dist/
