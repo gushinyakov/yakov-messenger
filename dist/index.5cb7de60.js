@@ -455,11 +455,12 @@ function hmrAcceptRun(bundle, id) {
 }
 
 },{}],"6cF5V":[function(require,module,exports) {
-var _sum = require("./modules/sum");
+var _styleSass = require("./style.sass");
+var _sum = require("./modules/sum/sum");
 const root = document.querySelector('#root');
 root.textContent = _sum.sum(6, -1).toString();
 
-},{"./modules/sum":"hJnZF"}],"hJnZF":[function(require,module,exports) {
+},{"./style.sass":"66VDT","./modules/sum/sum":"lBw5p"}],"66VDT":[function() {},{}],"lBw5p":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "sum", ()=>sum

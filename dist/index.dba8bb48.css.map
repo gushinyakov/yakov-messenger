@@ -1,0 +1,1 @@
+{"mappings":"ACEA;EACI,aAAA;EACA,UAAA;A","sources":["src/style.sass","src/modules/sum/sum.sass"],"sourcesContent":["@import \"modules/sum/sum\"\r\n",null],"names":[],"version":3,"file":"index.dba8bb48.css.map","sourceRoot":"/__parcel_source_root/"}
